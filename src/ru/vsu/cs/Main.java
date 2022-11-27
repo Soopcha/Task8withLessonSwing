@@ -13,5 +13,6 @@ public class Main {
                 new FrameMain().setVisible(true); // обращаемся к нашему конструктору
             }
         });
+        // комент проверка
     }
 }
