@@ -1,7 +1,7 @@
 package LogicTask;
 
 public class Mainlogic {
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
         double[][] arr = new double[2][3]; // первое строки второе столбцы
         arr[0][0] = 1;
         arr[0][1] = 3;
@@ -13,11 +13,11 @@ public class Mainlogic {
 
         System.out.println(checkingForAnOrderedSequence(arr));
         new TastForTask();
-    }
+    } */
 
     // 27 Для переданного двумерного массива определить, образуют ли его элементы
     //упорядоченную последовательность при просмотре элементов в следующем порядке:
-    public static boolean checkingForAnOrderedSequence(double arr[][]) {
+    public static boolean checkingForAnOrderedSequence(int arr[][]) {
         int r = 0; // r - row индекс строки
         int c = 0; // c - column индекс столбца
 

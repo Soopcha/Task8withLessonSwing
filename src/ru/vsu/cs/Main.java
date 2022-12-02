@@ -1,4 +1,5 @@
 package ru.vsu.cs;
+//Это то, что строила на уроке К ТАСКУ ОТНОШЕНИЕ НЕ ИМЕЕТ
 
 import java.awt.*;
 import java.util.Locale;
