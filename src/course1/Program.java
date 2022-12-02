@@ -1,6 +1,6 @@
-package ru.vsu.cs.course1;
+/* влепила ком package ru.vsu.cs.course1;
 
-import org.apache.commons.cli.CommandLine;
+ import org.apache.commons.cli.CommandLine;
 import ru.vsu.cs.util.ArrayUtils;
 import ru.vsu.cs.util.SwingUtils;
 
@@ -66,7 +66,7 @@ public class Program {
         SwingUtils.setDefaultFont("Microsoft Sans Serif", 18);
 
         /* Create and display the form */
-        java.awt.EventQueue.invokeLater(new Runnable() {
+       /* влепила ком java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
                 new FrameMain().setVisible(true);
             }
@@ -105,4 +105,4 @@ public class Program {
             out.close();
         }
     }
-}
+} */

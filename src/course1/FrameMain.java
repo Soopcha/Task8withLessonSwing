@@ -1,11 +1,11 @@
-package ru.vsu.cs.course1;
+package course1;
 
 import com.intellij.uiDesigner.core.GridConstraints;
 import com.intellij.uiDesigner.core.GridLayoutManager;
 import com.intellij.uiDesigner.core.Spacer;
-import ru.vsu.cs.util.ArrayUtils;
-import ru.vsu.cs.util.JTableUtils;
-import ru.vsu.cs.util.SwingUtils;
+import util.ArrayUtils;
+import util.JTableUtils;
+import util.SwingUtils;
 
 import javax.swing.*;
 import javax.swing.filechooser.FileFilter;

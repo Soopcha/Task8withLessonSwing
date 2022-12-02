@@ -1,4 +1,4 @@
-package ru.vsu.cs.util;
+package util;
 
 import java.awt.Color;
 import java.awt.Font;

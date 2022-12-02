@@ -1,4 +1,4 @@
-package ru.vsu.cs.course1;
+package course1;
 
 
 public class Task {
